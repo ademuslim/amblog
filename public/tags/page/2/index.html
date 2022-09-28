@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tags</title>
+    <link rel="stylesheet" href="/css/main.css" />
+    <link rel="stylesheet" href="/css/bootstrap.min.css" />
+
+    
+    <link
+      href="https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    
+    
+    
+    
+
+    
+    
+    
+
+    <div class="sidebar">
+      <div class="logo_content">
+        <div class="logo">
+          <div class="logo_name">AMC0DE</div>
+        </div>
+        <img src="/images/amcode.png" alt="amcode logo" id="btn" />
+      </div>
+
+      <ul class="nav_list">
+        <li>
+          <a href="/">
+            <i class="bx bx-grid-alt"></i>
+            <span class="links_name">Home</span>
+          </a>
+          <span class="tooltip">Home</span>
+        </li>
+        <li>
+          <i class="bx bx-search"></i>
+          <input type="text" placeholder="Level Up..." />
+          <span class="tooltip">Cari Yuk...</span>
+        </li>
+        <li>
+          <a href="/posts/">
+            <i class="bx bx-folder"></i>
+            <span class="links_name">Posts</span>
+          </a>
+          <span class="tooltip">Posts</span>
+        </li>
+        <li>
+          <a href="#">
+            <i class="bx bx-user"></i>
+            <span class="links_name">Tentang</span>
+          </a>
+          <span class="tooltip">Tentang</span>
+        </li>
+
+        <li>
+          <a href="#">
+            <i class="bx bx-chat"></i>
+            <span class="links_name">Pesan</span>
+          </a>
+          <span class="tooltip">Pesan</span>
+        </li>
+        
+
+        <li>
+          <a href="#">
+            <i class="bx bx-heart"></i>
+            <span class="links_name">Tersimpan</span>
+          </a>
+          <span class="tooltip">Tersimpan</span>
+        </li>
+      </ul>
+
+      <div class="profile_content">
+        <div class="profile">
+          <div class="profile_details">
+            <img src="/images/am-logo.png" alt="am c0de admin" />
+            <div class="name_job">
+              <div class="name">Ade Muslim</div>
+              <div class="job">Coder</div>
+            </div>
+          </div>
+          <i class="bx bx-log-out" id="log_out"></i>
+        </div>
+      </div>
+    </div>
+    
+
+    
+    <div class="home_content">
+      <div class="text">
+         ini list.html
+<section class="post-list">
+  
+  <article class="single-post border-bottom pb-4">
+    <h2 class="entry-title">
+      <a href="http://example.org/tags/cloth-accessory/">Cloth accessory</a>
+    </h2>
+    <div class="post-meta">
+      <span class="post-author"> Posted by:  > </span>
+      <span class="post-date">
+        <time>Sep 24, 2022, 11:32AM > </time>
+      </span>
+      <span class="post-tag">
+        http://example.org/tags/cloth-accessory/ 
+      </span>
+    </div>
+    <div class="entry-content"></div>
+  </article>
+  
+  <article class="single-post border-bottom pb-4">
+    <h2 class="entry-title">
+      <a href="http://example.org/tags/trend/">Trend</a>
+    </h2>
+    <div class="post-meta">
+      <span class="post-author"> Posted by:  > </span>
+      <span class="post-date">
+        <time>Sep 24, 2022, 11:32AM > </time>
+      </span>
+      <span class="post-tag">
+        http://example.org/tags/trend/ 
+      </span>
+    </div>
+    <div class="entry-content"></div>
+  </article>
+  
+  <div class="pt-2 pagination-sm">
+    
+    <ul class="pagination pagination-default">
+      <li class="page-item">
+        <a href="/tags/" aria-label="First" class="page-link" role="button"><span aria-hidden="true">&laquo;&laquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/tags/" aria-label="Previous" class="page-link" role="button"><span aria-hidden="true">&laquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/tags/" aria-label="Page 1" class="page-link" role="button">1</a>
+      </li>
+      <li class="page-item active">
+        <a aria-current="page" aria-label="Page 2" class="page-link" role="button">2</a>
+      </li>
+      <li class="page-item disabled">
+        <a aria-disabled="true" aria-label="Next" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&raquo;</span></a>
+      </li>
+      <li class="page-item disabled">
+        <a aria-disabled="true" aria-label="Last" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&raquo;&raquo;</span></a>
+      </li>
+    </ul>
+  </div>
+</section>
+
+        <footer id="site-footer pb-4 pt-4">
+          <div class="copyright text-center">&copy; 2022 AM C0DE</div>
+        </footer>
+      </div>
+    </div>
+    
+
+    <script src="/js/bootstrap.min.js"></script>
+
+    <script>
+      let btn = document.querySelector("#btn");
+      let sidebar = document.querySelector(".sidebar");
+      let searchBtn = document.querySelector(".bx-search");
+
+      btn.onclick = function () {
+        sidebar.classList.toggle("active");
+      };
+
+      searchBtn.onclick = function () {
+        sidebar.classList.toggle("active");
+      };
+    </script>
+  </body>
+</html>

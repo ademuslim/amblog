@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>About</title>
+    <link rel="stylesheet" href="/css/main.css" />
+    <link rel="stylesheet" href="/css/bootstrap.min.css" />
+
+    
+    <link
+      href="https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    
+    
+    
+    
+
+    
+    
+    
+
+    <div class="sidebar">
+      <div class="logo_content">
+        <div class="logo">
+          <div class="logo_name">AMC0DE</div>
+        </div>
+        <img src="/images/amcode.png" alt="amcode logo" id="btn" />
+      </div>
+
+      <ul class="nav_list">
+        <li>
+          <a href="/">
+            <i class="bx bx-grid-alt"></i>
+            <span class="links_name">Home</span>
+          </a>
+          <span class="tooltip">Home</span>
+        </li>
+        <li>
+          <i class="bx bx-search"></i>
+          <input type="text" placeholder="Level Up..." />
+          <span class="tooltip">Cari Yuk...</span>
+        </li>
+        <li>
+          <a href="/posts/">
+            <i class="bx bx-folder"></i>
+            <span class="links_name">Posts</span>
+          </a>
+          <span class="tooltip">Posts</span>
+        </li>
+        <li>
+          <a href="#">
+            <i class="bx bx-user"></i>
+            <span class="links_name">Tentang</span>
+          </a>
+          <span class="tooltip">Tentang</span>
+        </li>
+
+        <li>
+          <a href="#">
+            <i class="bx bx-chat"></i>
+            <span class="links_name">Pesan</span>
+          </a>
+          <span class="tooltip">Pesan</span>
+        </li>
+        
+
+        <li>
+          <a href="#">
+            <i class="bx bx-heart"></i>
+            <span class="links_name">Tersimpan</span>
+          </a>
+          <span class="tooltip">Tersimpan</span>
+        </li>
+      </ul>
+
+      <div class="profile_content">
+        <div class="profile">
+          <div class="profile_details">
+            <img src="/images/am-logo.png" alt="am c0de admin" />
+            <div class="name_job">
+              <div class="name">Ade Muslim</div>
+              <div class="job">Coder</div>
+            </div>
+          </div>
+          <i class="bx bx-log-out" id="log_out"></i>
+        </div>
+      </div>
+    </div>
+    
+
+    
+    <div class="home_content">
+      <div class="text">
+         ini single.html
+<article class="single-post">
+  <h1 class="entry-title mt-4 mb-4">About</h1>
+  <div class="post-meta mb-4">
+    <span class="post-author"> Posted by: Ade Muslim </span>
+    <span class="post-date">
+      <time>Sep 28, 2022, 9:07PM</time>
+    </span>
+    <span class="post-tag">
+      http://example.org/about/ 
+      <a href="http://example.org/tags/about/">about</a>
+      
+    </span>
+  </div>
+  <div class="entry-content"><p>welcome to our new hugo site</p>
+</div>
+</article>
+
+        <footer id="site-footer pb-4 pt-4">
+          <div class="copyright text-center">&copy; 2022 AM C0DE</div>
+        </footer>
+      </div>
+    </div>
+    
+
+    <script src="/js/bootstrap.min.js"></script>
+
+    <script>
+      let btn = document.querySelector("#btn");
+      let sidebar = document.querySelector(".sidebar");
+      let searchBtn = document.querySelector(".bx-search");
+
+      btn.onclick = function () {
+        sidebar.classList.toggle("active");
+      };
+
+      searchBtn.onclick = function () {
+        sidebar.classList.toggle("active");
+      };
+    </script>
+  </body>
+</html>

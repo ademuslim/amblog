@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sales on AM C0DE</title>
+    <link>http://example.org/tags/sales/</link>
+    <description>Recent content in Sales on AM C0DE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Sep 2022 11:54:54 +0700</lastBuildDate><atom:link href="http://example.org/tags/sales/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post 3</title>
+      <link>http://example.org/posts/post-3/</link>
+      <pubDate>Sat, 24 Sep 2022 11:54:54 +0700</pubDate>
+      
+      <guid>http://example.org/posts/post-3/</guid>
+      <description>Post 3
+Why stylists beat peanut butter on pancakes. Why sexy cloths will change your life. The unconventional guide to trendy cloths. Why mom was right about fashion shows. How summer outfits made me a better person. Unbelievable fashion designer success stories. 10 facts about fashion magazines that will impress your friends. 11 things about trends your kids don’t want you to know. The only stylist resources you will ever need.</description>
+    </item>
+    
+  </channel>
+</rss>

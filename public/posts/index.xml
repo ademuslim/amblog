@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on AM C0DE</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on AM C0DE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Sep 2022 14:37:16 +0700</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post 4</title>
+      <link>http://example.org/posts/post-4/</link>
+      <pubDate>Sun, 25 Sep 2022 14:37:16 +0700</pubDate>
+      
+      <guid>http://example.org/posts/post-4/</guid>
+      <description>Post 4
+Why stylists beat peanut butter on pancakes. Why sexy cloths will change your life. The unconventional guide to trendy cloths. Why mom was right about fashion shows. How summer outfits made me a better person. Unbelievable fashion designer success stories. 10 facts about fashion magazines that will impress your friends. 11 things about trends your kids don’t want you to know. The only stylist resources you will ever need.</description>
+    </item>
+    
+    <item>
+      <title>Post 3</title>
+      <link>http://example.org/posts/post-3/</link>
+      <pubDate>Sat, 24 Sep 2022 11:54:54 +0700</pubDate>
+      
+      <guid>http://example.org/posts/post-3/</guid>
+      <description>Post 3
+Why stylists beat peanut butter on pancakes. Why sexy cloths will change your life. The unconventional guide to trendy cloths. Why mom was right about fashion shows. How summer outfits made me a better person. Unbelievable fashion designer success stories. 10 facts about fashion magazines that will impress your friends. 11 things about trends your kids don’t want you to know. The only stylist resources you will ever need.</description>
+    </item>
+    
+    <item>
+      <title>15 podcasts about fashion shows</title>
+      <link>http://example.org/posts/post-2/</link>
+      <pubDate>Sat, 24 Sep 2022 11:50:26 +0700</pubDate>
+      
+      <guid>http://example.org/posts/post-2/</guid>
+      <description>Why stylists beat peanut butter on pancakes. Why sexy cloths will change your life. The unconventional guide to trendy cloths. Why mom was right about fashion shows. How summer outfits made me a better person. Unbelievable fashion designer success stories. 10 facts about fashion magazines that will impress your friends. 11 things about trends your kids don&amp;rsquo;t want you to know. The only stylist resources you will ever need. What the world would be like if trends didn&amp;rsquo;t exist.</description>
+    </item>
+    
+    <item>
+      <title>7 things your boss expects you know about trendy cloths</title>
+      <link>http://example.org/posts/welcome/</link>
+      <pubDate>Sat, 24 Sep 2022 11:32:21 +0700</pubDate>
+      
+      <guid>http://example.org/posts/welcome/</guid>
+      <description>Why mom was right about salon services. What experts are saying about fashion nails. 11 myths uncovered about online boutiques. Expose: you&amp;rsquo;re losing money by not using online boutiques. Why unique dresses are afraid of the truth. How online boutiques can help you predict the future. How to be unpopular in the fashion angel world. 6 facts about fashion shows that&amp;rsquo;ll keep you up at night. 11 bs facts about sexy cloths everyone thinks are true.</description>
+    </item>
+    
+  </channel>
+</rss>

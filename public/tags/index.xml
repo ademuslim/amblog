@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on AM C0DE</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on AM C0DE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Sep 2022 21:07:43 +0700</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>http://example.org/tags/about/</link>
+      <pubDate>Wed, 28 Sep 2022 21:07:43 +0700</pubDate>
+      
+      <guid>http://example.org/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sales</title>
+      <link>http://example.org/tags/sales/</link>
+      <pubDate>Sat, 24 Sep 2022 11:54:54 +0700</pubDate>
+      
+      <guid>http://example.org/tags/sales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fashion</title>
+      <link>http://example.org/tags/fashion/</link>
+      <pubDate>Sat, 24 Sep 2022 11:50:26 +0700</pubDate>
+      
+      <guid>http://example.org/tags/fashion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloth accessory</title>
+      <link>http://example.org/tags/cloth-accessory/</link>
+      <pubDate>Sat, 24 Sep 2022 11:32:21 +0700</pubDate>
+      
+      <guid>http://example.org/tags/cloth-accessory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trend</title>
+      <link>http://example.org/tags/trend/</link>
+      <pubDate>Sat, 24 Sep 2022 11:32:21 +0700</pubDate>
+      
+      <guid>http://example.org/tags/trend/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
