@@ -3,8 +3,15 @@
   padding: 0;
   box-sizing: border-box;
 }
-
 @import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500&display=swap");
+
+body {
+  position: relative;
+  min-height: 100vh;
+  width: 100%;
+  /* overflow: hidden; */
+  font-family: "Fira Code", monospace;
+}
 
 :root {
   --one: #03002e;
@@ -35,15 +42,6 @@
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
   background: var(--four);
-}
-
-body {
-  position: relative;
-  min-height: 100vh;
-  width: 100%;
-  /* overflow: hidden; */
-  font-family: "Fira Code", monospace;
-  background-color: var(--one);
 }
 
 img {
@@ -372,4 +370,8 @@ img {
 }
 .post-tag a:hover {
   color: var(--four);
+}
+
+.single-post {
+  background-color: red;
 }
